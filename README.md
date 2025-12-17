@@ -1,4 +1,4 @@
-# Athlo - Template White-Label para Academias
+# Street Fitness - Website Institucional e Landing Page
 
 Template moderno e responsivo para academias de ginástica, com arquitetura white-label totalmente configurável.
 

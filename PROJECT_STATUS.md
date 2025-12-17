@@ -1,4 +1,4 @@
-# 🎉 TEMPLATE WHITE-LABEL ATHLO - COMPLETO
+# 🎉 STREET FITNESS - PROJETO PERSONALIZADO
 
 ## ✅ O QUE FOI IMPLEMENTADO
 
@@ -203,5 +203,5 @@ partners: {
 
 **Desenvolvido com 💪 pela TAKOA Digital**
 
-Data: 10/12/2025
+Data: 17/12/2025
 Status: ✅ PRONTO PARA TESTES
