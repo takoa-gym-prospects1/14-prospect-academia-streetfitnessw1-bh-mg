@@ -88,7 +88,7 @@ export const content: ContentConfig = {
         address: "Av. Dr. Cristiano Guimarães, 1670 - Planalto, Belo Horizonte - MG",
         miniAddress: "Av. Dr. Cristiano Guimarães, 1670, Planalto/BH",
         mapsLink: "https://maps.app.goo.gl/3t2r9AZSRWeVrGBj7",
-        mapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1921588.6055404101!2d-46.39448104375!3d-19.8356051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa6901b3c90f895%3A0x5edb5fb213e4554e!2sAcademia%20Street%20Fitness!5e0!3m2!1spt-BR!2sbr!4v1765921541444!5m2!1spt-BR!2sbr",
+        mapsEmbed: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12623.820826103523!2d-43.96232233467431!3d-19.836382056753063!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa6901b3c90f895%3A0x5edb5fb213e4554e!2sAcademia%20Street%20Fitness!5e0!3m2!1spt-BR!2sbr!4v1766018738108!5m2!1spt-BR!2sbr",
         defaultWhatsappMessage: "Olá! Vim pelo site e gostaria de me matricular.",
     },
 
