@@ -13,6 +13,12 @@ const Footer: React.FC = () => {
         youtube: Youtube,
     };
 
+    const handleContactClick = (e: React.MouseEvent) => {
+        e.preventDefault();
+        const message = encodeURIComponent(infos.defaultWhatsappMessage);
+        window.open(`https://wa.me/${infos.whatsapp}?text=${message}`, '_blank');
+    };
+
     return (
         <footer className="w-full bg-neutral-900 text-white pt-16 pb-8" id="contact">
             <div className="container-custom">
@@ -63,7 +69,8 @@ const Footer: React.FC = () => {
                                 <li key={index}>
                                     <a
                                         href={link.href}
-                                        className="text-neutral-400 hover:text-primary transition-colors font-inter"
+                                        onClick={link.label === "Contato" ? handleContactClick : undefined}
+                                        className="text-neutral-400 hover:text-primary transition-colors font-inter cursor-pointer"
                                     >
                                         {link.label}
                                     </a>
